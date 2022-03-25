@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T07:59:58.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="J-CoIhp-5td7393ISpAJ" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T08:07:42.769Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="H6pPmv8zVlYe2Y4fyLRC" version="16.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="946" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -259,8 +259,8 @@
             <mxPoint x="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3B7Y6es03bZ_iijwkZP5-54" value="红框中一共有：6×508=&lt;font color=&quot;#ff0000&quot;&gt;3048&lt;/font&gt;个像素值未被用到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" parent="3B7Y6es03bZ_iijwkZP5-17" vertex="1">
-          <mxGeometry y="450" width="400" height="30" as="geometry" />
+        <mxCell id="3B7Y6es03bZ_iijwkZP5-54" value="红框中一共有：512*3+508*6=&lt;font color=&quot;#ff0000&quot;&gt;4584&lt;/font&gt;个像素值未被用到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" parent="3B7Y6es03bZ_iijwkZP5-17" vertex="1">
+          <mxGeometry y="450" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3B7Y6es03bZ_iijwkZP5-55" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="120" y="200" width="280" height="160" as="geometry" />
